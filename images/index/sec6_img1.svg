@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100.782" height="104.655" viewBox="0 0 100.782 104.655">
+  <g id="Groupe_1628" data-name="Groupe 1628" transform="translate(-665.196 -5678.973)">
+    <g id="Groupe_562" data-name="Groupe 562" transform="translate(665.196 5678.973)">
+      <g id="Groupe_557" data-name="Groupe 557" transform="translate(0 0)">
+        <path id="Tracé_245" data-name="Tracé 245" d="M100.556,65.371c-.737,8.258-3.419,19.949-12.016,28.755-7.948,8.142-19.486,11.58-35.11,10.251-1.022-.086-1.337.022-3.265-.124C30.04,102.984,14.675,98.87,4.94,66.428c-9.588-21.22-4.978-43.475,11.739-56.7A46.1,46.1,0,0,1,45.391,0,51.588,51.588,0,0,1,75.006,9.466C92.193,21.566,102.462,44.033,100.556,65.371Z" transform="translate(0 0)" fill="#00aec7"/>
+      </g>
+    </g>
+    <g id="Groupe_576" data-name="Groupe 576" transform="translate(693.529 5698.471)">
+      <g id="Groupe_572" data-name="Groupe 572" transform="translate(0 0)">
+        <g id="Groupe_571" data-name="Groupe 571">
+          <path id="Tracé_252" data-name="Tracé 252" d="M135.915,133.354a22.058,22.058,0,0,1-5.633-43.386V76.874h-2.451a4.591,4.591,0,1,1,0-9.182H144a4.591,4.591,0,1,1,0,9.182h-2.451V89.968a22.058,22.058,0,0,1-5.63,43.386Zm-8.083-63.036a1.964,1.964,0,0,0,0,3.929h3.763a1.312,1.312,0,0,1,1.313,1.313V91a1.31,1.31,0,0,1-1.039,1.286,19.434,19.434,0,1,0,8.093,0A1.309,1.309,0,0,1,138.919,91V75.559a1.312,1.312,0,0,1,1.313-1.313H144a1.964,1.964,0,0,0,0-3.929Z" transform="translate(-113.853 -67.692)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+        </g>
+      </g>
+      <g id="Groupe_575" data-name="Groupe 575" transform="translate(1.306 34.902)">
+        <g id="Groupe_573" data-name="Groupe 573" transform="translate(19.442 2.589)">
+          <path id="Tracé_253" data-name="Tracé 253" d="M131.437,85.365a19.409,19.409,0,0,1-10.052-2.776,1.314,1.314,0,0,1,1.346-2.258c8.945,5.332,18.006.054,18.1,0a1.314,1.314,0,1,1,1.343,2.258A22.714,22.714,0,0,1,131.437,85.365Z" transform="translate(-120.744 -80.145)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+        </g>
+        <g id="Groupe_574" data-name="Groupe 574">
+          <path id="Tracé_254" data-name="Tracé 254" d="M135.04,84.5a1.327,1.327,0,0,1-.671-.184c-8.945-5.335-18.007-.057-18.1,0a1.314,1.314,0,0,1-1.343-2.258c.424-.253,10.51-6.118,20.785,0a1.314,1.314,0,0,1-.674,2.442Z" transform="translate(-114.287 -79.285)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

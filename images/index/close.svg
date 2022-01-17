@@ -1,0 +1,7 @@
+<svg id="Groupe_1561" data-name="Groupe 1561" xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <path id="Icon_ionic-ios-close" data-name="Icon ionic-ios-close" d="M22.451,20.313,28.9,13.865a1.511,1.511,0,1,0-2.137-2.137l-6.448,6.448-6.448-6.448a1.511,1.511,0,1,0-2.137,2.137l6.448,6.448L11.73,26.761A1.511,1.511,0,1,0,13.866,28.9l6.448-6.448L26.762,28.9A1.511,1.511,0,1,0,28.9,26.761Z" transform="translate(5.467 5.908)" fill="#e2097a" stroke="#e2097a" stroke-width="1"/>
+  <g id="Ellipse_22" data-name="Ellipse 22" fill="none" stroke="#e2097a" stroke-width="3">
+    <circle cx="26" cy="26" r="26" stroke="none"/>
+    <circle cx="26" cy="26" r="24.5" fill="none"/>
+  </g>
+</svg>
